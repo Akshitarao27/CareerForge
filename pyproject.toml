@@ -1,0 +1,30 @@
+[project]
+name = "careerforge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Akshita Rao", email = "akshitarao2004@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "email-validator>=2.3.0",
+    "fastapi>=0.142.4",
+    "google-genai>=2.29.0",
+    "huggingface-hub>=2.1.1",
+    "openai>=3.29.0",
+    "pwdlib[argon2]>=0.3.1",
+    "pyjwt>=2.15.1",
+    "pypdf>=6.20.0",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.4",
+    "python-multipart>=0.0.32",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+careerforge = "careerforge:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
