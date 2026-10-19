@@ -37,14 +37,16 @@ CareerForge is a career development platform designed to help students analyze r
 
 ## 📸 Screenshots
 
-<img width="1221" height="840" alt="Screenshot 2026-10-19 at 8 03 51 PM" src="https://github.com/user-attachments/assets/4f87db0f-a424-44f8-9a19-9e84acb88c97" />
-<img width="1470" height="832" alt="Screenshot 2026-10-19 at 8 03 38 PM" src="https://github.com/user-attachments/assets/f66d94ba-32e1-4504-a6dc-0c526fed97a0" />
-<img width="1470" height="838" alt="Screenshot 2026-10-19 at 8 03 22 PM" src="https://github.com/user-attachments/assets/8bc70d84-ce61-4f2c-9582-dc1bf81fbe12" />
-<img width="1470" height="834" alt="Screenshot 2026-10-19 at 8 03 08 PM" src="https://github.com/user-attachments/assets/78a8b8e0-5e2e-4227-9a7c-d90827f0b84f" />
-<img width="1470" height="831" alt="Screenshot 2026-10-19 at 8 02 58 PM" src="https://github.com/user-attachments/assets/e9e48abb-514f-455c-b0e3-b86bd252f68e" />
-<img width="1470" height="837" alt="Screenshot 2026-10-19 at 8 02 30 PM" src="https://github.com/user-attachments/assets/c77605df-ff68-4a8b-aa50-5ab570db0ce0" />
-<img width="1470" height="836" alt="Screenshot 2026-10-19 at 8 02 20 PM" src="https://github.com/user-attachments/assets/3611dbba-6e80-4b86-bc39-1a3d090ecec4" />
-<img width="1469" height="831" alt="Screenshot 2026-10-19 at 8 02 07 PM" src="https://github.com/user-attachments/assets/e21c0ea2-b71c-4923-9591-2086b64dd57b" />
+
+<img width="1469" height="831" alt="Screenshot 2026-10-19 at 8 02 07 PM" src="https://github.com/user-attachments/assets/20de2fec-5219-4e67-b90a-93ca0af7df68" /><img width="1470" height="836" alt="Screenshot 2026-10-19 at 8 02 20 PM" src="https://github.com/user-attachments/assets/41bd4a34-dced-458e-acc8-f7cf124eea81" /><img width="1470" height="837" alt="Screenshot 2026-10-19 at 8 02 30 PM" src="https://github.com/user-attachments/assets/e165b65f-9a51-464e-92a3-93c0e0ee8d61" /><img width="1470" height="831" alt="Screenshot 2026-10-19 at 8 02 58 PM" src="https://github.com/user-attachments/assets/c1fe9aff-4706-491a-978c-834a5bf687d8" /><img width="1470" height="834" alt="Screenshot 2026-10-19 at 8 03 08 PM" src="https://github.com/user-attachments/assets/66a53548-4687-419d-899d-9fa22f0ce885" /><img width="1470" height="838" alt="Screenshot 2026-10-19 at 8 03 22 PM" src="https://github.com/user-attachments/assets/66911818-6d89-4a3c-863b-5989f3059561" /><img width="1470" height="832" alt="Screenshot 2026-10-19 at 8 03 38 PM" src="https://github.com/user-attachments/assets/ad6613e0-382a-4a5f-a749-61bf8517adbb" /><img width="1221" height="840" alt="Screenshot 2026-10-19 at 8 03 51 PM" src="https://github.com/user-attachments/assets/f80e0040-d442-4878-9950-e8002b84ba11" />
+
+
+
+
+
+
+
+
 
 ## 🚀 Run Locally
 
